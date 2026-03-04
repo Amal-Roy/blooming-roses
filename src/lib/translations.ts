@@ -32,6 +32,7 @@ export const translations: TranslationCategories = {
       en: 'മലയാളം',
       ml: 'English',
     },
+  
     home: {
       en: 'Home',
       ml: 'ഹോം',
@@ -60,15 +61,15 @@ export const translations: TranslationCategories = {
     },
     eventDate: {
       en: 'April 26–30, 2026 • Chavara Public School, Pala',
-      ml: 'ഏപ്രിൽ 26–30, 2026 • ചവര പബ്ലിക് സ്കൂള്, പാലാ',
+      ml: 'ഏപ്രിൽ 26–30, 2026 • ചാവറ പബ്ലിക് സ്കൂൾ,പാലാ',
     },
     quote: {
-      en: 'Rejoice in hope',
-      ml: 'പ്രത്യാശയില്‍ സന്തോഷിക്കുവിന്‍',
+      en: 'I have called you by name; you are mine.',
+      ml: 'ഞാന്‍  നിന്നെ പേരുചൊല്ലി വിളിച്ചിരിക്കുന്നു. നീ എന്റേതാണ്.',
     },
     quoteReference: {
-      en: 'Romans 12:12',
-      ml: 'റോമാ 12:12',
+      en: 'Isaiah 43:1',
+      ml: 'ഏശയ്യാ 43 : 1',
     },
     countdownTitle: {
       en: 'Your Spiritual Journey Begins In:',
@@ -102,7 +103,7 @@ export const translations: TranslationCategories = {
       en: '🔥 Why You Can\'t Miss This! 🔥',
       ml: '🔥 നിങ്ങൾക്ക് ഇത് നഷ്ടപ്പെടുത്താൻ കഴിയില്ല! 🔥',
     },
-    inspiringSessions: {
+    inspiringSessions: {    
       en: '✨ Inspiring Sessions & Talks',
       ml: '✨ പ്രചോദനാത്മകമായ സെഷനുകളും സംസാരങ്ങളും',
     },
@@ -150,7 +151,7 @@ export const translations: TranslationCategories = {
     },
     locationValue: {
       en: 'Chavara Public School, Pala',
-      ml: 'ചവര പബ്ലിക് സ്കൂള്, പാലാ',
+      ml: 'ചാവറ പബ്ലിക് സ്കൂൾ, പാലാ',
     },
     dates: {
       en: 'Dates:',
