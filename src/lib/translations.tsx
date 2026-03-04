@@ -45,7 +45,7 @@ const translations = {
     },
     eventDate: {
       en: 'April 26–30, 2026 • Chavara Public School, Pala',
-      ml: 'ഏപ്രിൽ 26–30, 2026 • ചവര പബ്ലിക് സ്കൂള്, പാലാ',
+      ml: 'ഏപ്രിൽ 26–30, 2026 • ചാവറ പബ്ലിക് സ്കൂൾ, പാലാ',
     },
     quote: {
       en: 'Rejoice in hope',
